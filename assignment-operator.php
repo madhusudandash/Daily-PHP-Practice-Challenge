@@ -6,6 +6,6 @@ echo $x .  "<br>";
 
  echo ( $x += $y ) ."<br>";
  echo $x . "<br>";
- echo ($x*=$y) . "<br>";
+ echo ($x*=$y);
  echo $y +=$x ;
 ?>
