@@ -15,7 +15,7 @@ do {
 
 // for loop
 for($i=10;$i>=-10;$i--) {
-    echo "the nuber is : $i <br>" ;
+    echo "the number is : $i <br>" ;
 }
 
 // foreach loop
